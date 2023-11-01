@@ -37,7 +37,7 @@ const App = () => {
         text: loremIpsum({
           count: 1,
           units: "sentences",
-          sentenceLowerBound: 4,
+          sentenceLowerBound: 20,
           sentenceUpperBound: 50
         })
       };
