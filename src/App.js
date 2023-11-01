@@ -69,7 +69,7 @@ const App = () => {
           <Collapsible
             transitionTime={400}
             trigger="Open Dialog"
-            triggerWhenOpen="Click here to close Dialog"
+            triggerWhenOpen="Click on arrow to close Dialog"
           >
             <div>{item.text}</div>
           </Collapsible>
