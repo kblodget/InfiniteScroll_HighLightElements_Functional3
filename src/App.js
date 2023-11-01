@@ -20,7 +20,7 @@ const App = () => {
     .map((val, idx) => {
       return {
         id: idx,
-        name: "John Doe",
+        name: "Transaction",
         image: "http://via.placeholder.com/40",
         icon: "message",
         elements: [
@@ -28,7 +28,7 @@ const App = () => {
             updatedTime: "11 Nov. 2020"
           },
           {
-            poc: "djdkdk"
+            poc: "John Mays <jmays@hotmail.com>"
           },
           {
             color: "silver"
