@@ -1,2 +1,2 @@
-# InfiniteScroll_not
+# InfiniteScroll
 Created with CodeSandbox
